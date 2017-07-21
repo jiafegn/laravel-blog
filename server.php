@@ -17,5 +17,5 @@ if ($uri !== '/' and file_exists($requested))
 }
 
 require_once $paths['public'].'/index.php';
-//this is a test222222
+//this is a test
 
